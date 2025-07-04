@@ -8,7 +8,7 @@ A powerful AI-driven conversational agent powered by OpenAI's ChatGPT. This proj
 
 For inquiries, collaborations, or support, feel free to reach out:
 
-[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact%20Me-blue?logo=telegram&style=for-the-badge)](https://t.me/cashblaze127)
+[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact%20Me-blue?logo=telegram&style=for-the-badge)](https://t.me/cashblaze129)
 
 ---
 
